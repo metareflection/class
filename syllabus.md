@@ -18,7 +18,7 @@ Teaching Fellow: Raffi Sanna (<a href="mailto:rsanna@g.harvard.edu">rsanna@g.har
 
 In this graduate seminar, we will look at the art of reflection, reasoning and acting upon oneself.
 
-Topics include metacircular interpreters, reflective towers of interpreters, collapsing towers of interpreters, neurosymbolic interpreters, ...
+Topics include metacircular interpreters, reflective towers of interpreters, collapsing towers of interpreters, neurosymbolic interpreters, belief graphs, ...
 
 Students will work on assignments and a final project.
 Each student will also present a paper and lead the discussion for one session.
