@@ -18,7 +18,7 @@ Teaching Fellow: Raffi Sanna (<a href="mailto:rsanna@g.harvard.edu">rsanna@g.har
 
 In this graduate seminar, we will look at advanced topics in programming languages, design and implementation.
 
-Topics include reflection, metacircular interpreters, reflective towers of interpreters, collapsing towers of interpreters, neurosymbolic interpreters, belief graphs, ...
+Topics include relational programming, reflection, metacircular interpreters, reflective towers of interpreters, collapsing towers of interpreters, neurosymbolic interpreters, belief graphs, ...
 
 Students will work on assignments and a final project.
 Each student will also present a paper and lead the discussion for one session.
